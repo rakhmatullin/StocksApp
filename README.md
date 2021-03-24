@@ -9,12 +9,12 @@
 </p>
 
 <p align="row">
-<img src= "https://i.ibb.co/7kBnwVY/Simulator-2.png" width="400" >
-<img src= "https://i.ibb.co/r77XYSh/Simulator1.png" width="400" >
+<img src= "https://i.ibb.co/7kBnwVY/Simulator-2.png" width="200" >
+<img src= "https://i.ibb.co/r77XYSh/Simulator1.png" width="200" >
 </p>
 <p align="row">
-<img src= "https://i.ibb.co/gy8nmy7/Simulator-3.png" width="400" >
-<img src= "https://i.ibb.co/Xx19rTj/Simulator-4.png" width="400" >
+<img src= "https://i.ibb.co/gy8nmy7/Simulator-3.png" width="200" >
+<img src= "https://i.ibb.co/Xx19rTj/Simulator-4.png" width="200" >
 </p>
 
 ## Requirements
