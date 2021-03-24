@@ -5,16 +5,17 @@
 <p align="center">
   <p align="center">
      iPhone application for browsing and observing stocks (pet project)
+    
   </p>
 </p>
 
-<p align="row">
-<img src= "https://i.ibb.co/7kBnwVY/Simulator-2.png" width="200" >
-<img src= "https://i.ibb.co/r77XYSh/Simulator1.png" width="200" >
+<p align="center">
+<img src= "https://i.ibb.co/nzKRMkM/1.jpg" width="200" >
+<img src= "https://i.ibb.co/V99GhRT/2.jpg" width="200" >
 </p>
-<p align="row">
-<img src= "https://i.ibb.co/gy8nmy7/Simulator-3.png" width="200" >
-<img src= "https://i.ibb.co/Xx19rTj/Simulator-4.png" width="200" >
+<p align="center">
+<img src= "https://i.ibb.co/m61PhNT/3.jpg" width="200" >
+<img src= "https://i.ibb.co/m61PhNT/4.jpg" width="200" >
 </p>
 
 ## Requirements
