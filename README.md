@@ -15,7 +15,7 @@
 </p>
 <p align="center">
 <img src= "https://i.ibb.co/m61PhNT/3.jpg" width="300" >
-<img src= "https://i.ibb.co/m61PhNT/4.jpg" width="300" >
+<img src= "https://i.ibb.co/MfMthXy/4.jpg" width="300" >
 </p>
 
 ## Requirements
@@ -25,6 +25,7 @@
 ## Meta
 
 Renat Rakhmatullin – [@rakhmatullin](https://t.me/artem_rakhmatulin) – renrahman@gmail.com
+
 [https://github.com/rakhmatullin](https://github.com/rakhmatullin)
 
 [swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
