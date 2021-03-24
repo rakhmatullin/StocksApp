@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-<img src= "https://i.ibb.co/nzKRMkM/1.jpg" width="200" >
-<img src= "https://i.ibb.co/V99GhRT/2.jpg" width="200" >
+<img src= "https://i.ibb.co/nzKRMkM/1.jpg" width="300" >
+<img src= "https://i.ibb.co/V99GhRT/2.jpg" width="300" >
 </p>
 <p align="center">
-<img src= "https://i.ibb.co/m61PhNT/3.jpg" width="200" >
-<img src= "https://i.ibb.co/m61PhNT/4.jpg" width="200" >
+<img src= "https://i.ibb.co/m61PhNT/3.jpg" width="300" >
+<img src= "https://i.ibb.co/m61PhNT/4.jpg" width="300" >
 </p>
 
 ## Requirements
