@@ -24,7 +24,7 @@
 
 ## Meta
 
-Renat Rakhmatullin – [@rakhmatullin](https://t.me/artem_rakhmatulin) – renrahman@gmail.com
+Renat Rakhmatullin – [@rakhmatullin](https://t.me/renat_rakhmatullin) – renrahman@gmail.com
 
 [https://github.com/rakhmatullin](https://github.com/rakhmatullin)
 
